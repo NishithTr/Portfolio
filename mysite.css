@@ -94,8 +94,7 @@ h1 {
 h2 {
   font-size: 1.5rem;
   color: #ff87ca;
-   
-}
+   }
 
 h3 {
   color: #11999e;
@@ -103,7 +102,7 @@ h3 {
 
 .skills {
   width: 50%;
-  margin: 10px auto 100px auto;
+  margin: 10px auto 50px auto;
   text-align: left;
   line-height: 2;
 }
